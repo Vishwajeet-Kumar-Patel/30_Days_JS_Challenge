@@ -2,7 +2,7 @@
 let book = {
     title: "The Alchemist",
     author: "Paul Coelho",
-    year: 1988
+    year: 1988,
 };
 console.log(book.title);
 console.log(book.author);
