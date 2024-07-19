@@ -8,7 +8,6 @@ console.log(book.title);
 console.log(book.author);
 console.log(book.year);
 
-
 // Task 2: Access and log the title and author properties of the book object.
 console.log(book["title"]);
 console.log(book["author"]);
